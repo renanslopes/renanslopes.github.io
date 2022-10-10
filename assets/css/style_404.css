@@ -27,22 +27,24 @@ body {
     align-items: center;
 }
 
+.container-lg {
+    margin: 0 auto;
+}
 
 .container-lg h1 {
     display: none;
 }
 
-.page h1 {
+/* .page h1 {
     font-family: Silkscreen;
     font-size: 4.5rem;
     margin-top: 0;
-}
+} */
 
 .entry h2 {
-    font-family: Josefin Sans;
+    font-family: Silkscreen;
     font-size: 4rem;
     font-weight: bold;
-    letter-spacing: 0.5rem;
     margin-top: 15px;
 }
 
@@ -50,6 +52,5 @@ body {
     font-family: Josefin Sans;
     font-size: 3.5rem;
     font-weight: bold;
-    letter-spacing: 0.5rem;
     margin-top: 15px;
 }
