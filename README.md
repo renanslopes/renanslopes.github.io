@@ -4,4 +4,4 @@
 
 ### Prévia:
 
-![Prévia do layout do site](https://raw.githubusercontent.com/renanslopes/renanslopes.github.io/0ba788d25921fd8391fa5e7bac1f4c34e7fe2e5c/assets/images/screenshoot.jpg)
+![Prévia do layout do site](https://raw.githubusercontent.com/renanslopes/renanslopes.github.io/master/assets/images/screenchoot.JPG)
