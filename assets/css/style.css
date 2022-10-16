@@ -21,7 +21,7 @@ body {
     width: 100%;
     height: 100%;
     background-color: rgb(39, 29, 51);
-    color: rgb(105, 53, 148);
+    color: rgb(134, 87, 173);
     text-align: center;
     display: flex;
     align-items: center;
@@ -29,7 +29,7 @@ body {
 
 #svg {
     width: 100px;
-    fill: rgb(105, 53, 148);
+    fill: rgb(134, 87, 173);
     stroke-width: 1px;
     margin: 0 auto;
 }
@@ -40,7 +40,7 @@ h1 {
     font-family: Silkscreen;
     font-size: 4.5rem;
     margin-top: 0;
-    text-shadow: 4px 4px 1px rgb(64, 32, 90);
+    text-shadow: 4px 4px 1px rgb(95, 55, 126);
 }
 
 h2 {
@@ -73,7 +73,7 @@ h2 {
 }
 
 .span_skill {
-    fill: rgb(105, 53, 148);
+    fill: rgb(134, 87, 173);
     margin: 0 5px 0 5px;
     border: none;
 }
