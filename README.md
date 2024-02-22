@@ -4,6 +4,8 @@ O uso do Jekyll casa perfeitamente com o Github Pages, facilitando e muito quand
 de fácil gestão.
 
 ### ⮞ O que é Jekyll?
+![Logo Jekyll](https://github.com/renanslopes/renanslopes.github.io/blob/master/img/jekyll_logo.png?raw=true "Logo Jekyll")
+<br/>
 Segundo o site [virtuacreative](http://blog.virtuacreative.com.br/jekyll-for-beginners-introduction.html):
 > _Jekyll é um programa escrito em Ruby que permite a criação dinâmica de websites e blogs utilizando apenas html, css e javascript.
 Tecnicamente, chama-se Static Site Generator (SSG), Gerador de websites estáticos, em Português. Entre os SSGs disponíveis, Jekyll é de longe o mais utilizado.
