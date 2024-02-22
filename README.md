@@ -5,14 +5,12 @@ de fácil gestão.
 
 ### ⮞ O que é Jekyll?
 Segundo o site [virtuacreative](http://blog.virtuacreative.com.br/jekyll-for-beginners-introduction.html):
-> _Jekyll é um programa escrito em Ruby que permite a criação dinâmica de websites e blogs utilizando apenas html, css e javascript._
-<br/>
-> _Tecnicamente, chama-se Static Site Generator (SSG), Gerador de websites estáticos, em Português. Entre os SSGs disponíveis, Jekyll é de longe o mais utilizado._
-<br/>
-> _Websites em Jekyll são escritos utilizando três tecnologias de programação: Liquid Templating Language, Yaml e Markdown, que são então automaticamente compiladas para formar páginas em html._
+> _Jekyll é um programa escrito em Ruby que permite a criação dinâmica de websites e blogs utilizando apenas html, css e javascript.
+Tecnicamente, chama-se Static Site Generator (SSG), Gerador de websites estáticos, em Português. Entre os SSGs disponíveis, Jekyll é de longe o mais utilizado.
+Websites em Jekyll são escritos utilizando três tecnologias de programação: Liquid Templating Language, Yaml e Markdown, que são então automaticamente compiladas para formar páginas em html._
 <br/>
 ⟡ Para saber mais sobre Jekyll, segue o [link para o site](https://jekyllrb.com/) 
-
+<br/>
 ⟡ Caso queira fazer uso do Jekyll junto do Github Pages e quiser um help, basta entrar em contato comigo <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo"><img src="https://www.shareicon.net/data/16x16/2016/07/10/119959_whatsapp_512x512.png"/></a>
 <br/>
 ⟡ Terei o maior prazer em ajudar!
