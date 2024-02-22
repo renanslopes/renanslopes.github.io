@@ -17,7 +17,8 @@ Websites em Jekyll são escritos utilizando três tecnologias de programação: 
 ⟡ Caso queira fazer uso do Jekyll junto do Github Pages e quiser um help, basta entrar em contato comigo <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo"><img src="https://www.shareicon.net/data/16x16/2016/07/10/119959_whatsapp_512x512.png"/></a>
 <br/><br/>
 ⟡ Terei o maior prazer em ajudar!
-
+<br/><br/>
+⟡ Por ultimo e não menos importante, segue [o link para o template](https://volny.github.io/creative-theme-jekyll/) utilizado. 
 
 
 
