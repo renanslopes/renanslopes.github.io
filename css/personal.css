@@ -28,10 +28,10 @@
 }
 
 .href_sobre {
-    color: white;
+    color: #F05F40;
 }
 
 .href_sobre:hover {
-    color: white;
+    color: #F05F40;
     text-decoration: underline;
 }
