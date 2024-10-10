@@ -19,5 +19,9 @@
 }
 
 #about_content a {
+    width: 40px;
+}
+
+#about_content a img {
     width: 30px;
 }
