@@ -26,3 +26,12 @@
 #about_content a img {
     width: 30px;
 }
+
+.href_sobre {
+    color: white;
+}
+
+.href_sobre:hover {
+    color: white;
+    text-decoration: underline;
+}
